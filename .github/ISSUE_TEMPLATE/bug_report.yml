@@ -1,1 +1,72 @@
+name: Bug Report
+description: Report a bug or unexpected behavior in Look & Multiply.
+title: "[Bug]: "
+labels: ["bug"]
 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report a bug!
+        Please fill out the information below.
+
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft Version
+      placeholder: "1.21.1"
+    validations:
+      required: true
+
+  - type: input
+    id: neoforge
+    attributes:
+      label: NeoForge Version
+      placeholder: "21.x.x"
+    validations:
+      required: true
+
+  - type: input
+    id: modversion
+    attributes:
+      label: Look & Multiply Version
+      placeholder: "0.9.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Crash Report
+      description: Paste the latest.log, crash report or any useful information here.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional information
