@@ -11,6 +11,10 @@ multiplayer synchronization and a powerful blacklist system.
 ![Mod Loader](https://img.shields.io/badge/Loader-NeoForge-E85D3F)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 
+
+📥 CurseForge
+https://www.curseforge.com/minecraft/mc-mods/look-multiply
+
 </div>
 
 ---
