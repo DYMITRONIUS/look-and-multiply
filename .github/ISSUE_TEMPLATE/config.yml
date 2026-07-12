@@ -1,1 +1,10 @@
+blank_issues_enabled: false
 
+contact_links:
+  - name: CurseForge Page
+    url: https://www.curseforge.com/minecraft/mc-mods/look-multiply
+    about: Download the latest release.
+
+  - name: Modrinth Page
+    url: https://modrinth.com/mod/look-multiply
+    about: Download the latest release.
