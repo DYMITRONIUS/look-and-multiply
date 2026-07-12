@@ -12,7 +12,7 @@ multiplayer synchronization and a powerful blacklist system.
 ![Java](https://img.shields.io/badge/Java-21-orange)
 
 
-📥 CurseForge
+📥 Mod Download:
 [![CurseForge](https://img.shields.io/badge/Download-CurseForge-F16436?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/look-multiply)
 
 </div>
