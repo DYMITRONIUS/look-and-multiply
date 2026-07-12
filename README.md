@@ -15,6 +15,8 @@ multiplayer synchronization and a powerful blacklist system.
 📥 Mod Download:
 [![CurseForge](https://img.shields.io/badge/Download-CurseForge-F16436?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/look-multiply)
 
+[![Modrinth](https://img.shields.io/badge/Download-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)]([https://modrinth.com/mod/look-multiply](https://modrinth.com/mod/look-multiply))
+
 </div>
 
 ---
