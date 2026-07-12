@@ -1,53 +1,104 @@
-Look & Multiply is a configurable utility mod that allows you to duplicate entities simply by looking at them.
+<div align="center">
 
-Unlike simple copy mods, Look & Multiply gives every player their own independent cooldown timer, customizable settings and multiplayer-friendly synchronization.
+# Look & Multiply
 
-Features
-Duplicate entities just by looking at them.
-Fully customizable personal cooldown timer.
-Multiplayer support with independent timers for every player.
-In-game settings menu.
-Per-player blacklist system.
-Fully customizable messages.
-Server-side saved settings.
-Chat commands (/copypaste .......).
+### Duplicate entities simply by looking at them.
 
+A configurable Minecraft utility mod with independent player settings,
+multiplayer synchronization and a powerful blacklist system.
 
-What can be duplicated?
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A)
+![Mod Loader](https://img.shields.io/badge/Loader-NeoForge-E85D3F)
+![Java](https://img.shields.io/badge/Java-21-orange)
 
-Look & Multiply supports much more than just mobs.
+</div>
 
-You can duplicate:
+---
 
-Living entities
-Dropped items
-Projectiles
-Item stacks (for example 13 items or a full stack)
-Modded features
+## ✨ Features
 
+- Duplicate entities simply by looking at them
+- Fully customizable personal cooldown timer
+- Independent timers and settings for every player
+- Multiplayer support
+- In-game configuration menu
+- Per-player blacklist system
+- Customizable HUD and messages
+- Server-side persistent settings
+- Built-in chat commands
 
-Customization
+## 📦 What can be duplicated?
+
+Look & Multiply supports much more than ordinary mobs.
+
+Supported examples include:
+
+- Living entities
+- Dropped items
+- Full item stacks
+- Projectiles
+- Modded features
+
+When a dropped stack is duplicated, the complete stack is copied rather than
+only a single item.
+
+## ⚙️ Customization
 
 Every player can configure their own:
 
-Starting cooldown
-Minimum cooldown
-Cooldown decrease duration
-Blacklist
-HUD
-Messages
-And much more
+- Starting cooldown
+- Minimum cooldown
+- Cooldown reduction interval
+- Blacklist
+- HUD
+- Messages
+- Additional gameplay settings
 
-No operator permissions are required.
+No operator permissions are required for personal settings.
 
-Multiplayer
+## 🌐 Multiplayer
 
-All important gameplay data is synchronized by the server.
+All important gameplay data is handled and synchronized by the server.
 
 Every player has their own:
 
-cooldown timer
-settings
-blacklist
+- Cooldown timer
+- Settings
+- Blacklist
 
-One player's settings never affect anyone else.
+One player's configuration never affects another player's configuration.
+
+## 📥 Requirements
+
+- Minecraft **1.21.1**
+- NeoForge
+- Java **21**
+- The mod must be installed on both the client and server
+
+## 🎮 Installation
+
+1. Install NeoForge for Minecraft 1.21.1.
+2. Download Look & Multiply.
+3. Place the mod file inside the `mods` folder.
+4. Install the mod on the server as well when playing multiplayer.
+
+## 🐞 Bug Reports
+
+Found a bug?
+
+[Create a bug report](https://github.com/DYMITRONIUS/look-and-multiply/issues/new/choose)
+
+Please include your Minecraft version, NeoForge version, mod version and logs
+when available.
+
+## 💡 Suggestions and Questions
+
+Ideas and feature requests can be submitted through
+[GitHub Issues](https://github.com/DYMITRONIUS/look-and-multiply/issues).
+
+General questions and discussions belong in
+[GitHub Discussions](https://github.com/DYMITRONIUS/look-and-multiply/discussions).
+
+## 👤 Author
+
+Developed by **DYMITRONIUS**.
