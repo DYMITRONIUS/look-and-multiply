@@ -23,7 +23,7 @@ This project follows Semantic Versioning where possible.
 - Support for dropped items
 - Support for full item stacks
 - Support for projectiles
-- Support for many modded entities
+- Support for modded features
 
 ## 🔧 Changed
 
